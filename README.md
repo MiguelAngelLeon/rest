@@ -46,48 +46,39 @@ Se planea incluir más endpoints, pruebas automáticas y documentación de API c
 ## 💻 Instalación y Uso
 
 ### 1️⃣ Clonar el repositorio
-```bash
+```
 git clone https://github.com/MiguelAngelLeon/rest.git
-2️⃣ Entrar al directorio del proyecto
-bash
-Copiar
-Editar
+```
+###2️⃣ Entrar al directorio del proyecto
+```
 cd rest
-3️⃣ Ejecutar la aplicación
+```
+###3️⃣ Ejecutar la aplicación
 Si usas Maven:
-
-bash
-Copiar
-Editar
+```
 ./mvnw spring-boot:run
+```
 o en Windows:
 
-bash
-Copiar
-Editar
+```
 mvnw spring-boot:run
-4️⃣ Acceder a la API
+```
+###4️⃣ Acceder a la API
 Por defecto estará disponible en:
 
-arduino
-Copiar
-Editar
+```
 http://localhost:8080
-(Si el proyecto tiene endpoints ya implementados, listarlos aquí con ejemplos.)
+```
 
-🛠️ Tecnologías Utilizadas
-Java (versión según pom.xml)
+##🛠️ Tecnologías Utilizadas
+Java 
+Spring Boot 
+Maven 
 
-Spring Boot (para el desarrollo de la API REST)
-
-Maven (gestión de dependencias)
-
-(Agregar aquí más tecnologías si el proyecto las usa: JPA, H2, MySQL, etc.)
-
-👤 Autor
+##👤 Autor
 Miguel Ángel León
 GitHub
 
-📄 Licencia
+##📄 Licencia
 Este proyecto está bajo la Licencia MIT.
 Consulta el archivo LICENSE para más detalles.
