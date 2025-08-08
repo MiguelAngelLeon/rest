@@ -49,11 +49,11 @@ Se planea incluir más endpoints, pruebas automáticas y documentación de API c
 ```
 git clone https://github.com/MiguelAngelLeon/rest.git
 ```
-###2️⃣ Entrar al directorio del proyecto
+### 2️⃣ Entrar al directorio del proyecto
 ```
 cd rest
 ```
-###3️⃣ Ejecutar la aplicación
+### 3️⃣ Ejecutar la aplicación
 Si usas Maven:
 ```
 ./mvnw spring-boot:run
@@ -63,22 +63,22 @@ o en Windows:
 ```
 mvnw spring-boot:run
 ```
-###4️⃣ Acceder a la API
+### 4️⃣ Acceder a la API
 Por defecto estará disponible en:
 
 ```
 http://localhost:8080
 ```
 
-##🛠️ Tecnologías Utilizadas
+## 🛠️ Tecnologías Utilizadas
 Java 
 Spring Boot 
 Maven 
 
-##👤 Autor
+## 👤 Autor
 Miguel Ángel León
 GitHub
 
-##📄 Licencia
+## 📄 Licencia
 Este proyecto está bajo la Licencia MIT.
 Consulta el archivo LICENSE para más detalles.
